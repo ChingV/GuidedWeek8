@@ -3,6 +3,7 @@
 tom = ["Tom", 9, 8];
 jerry = ["Jerry", 10, 45];
 
+//had to convert height into meters
 let tHeight= tom[1]*.0254;
 let jeHeight= jerry[1]*.0254;
 
